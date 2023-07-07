@@ -1,4 +1,6 @@
 
+[Artificial Intelligence: The Good, the Bad, and the Ugly - Yaser Abu-Mostafa](https://www.youtube.com/watch?v=-a61zsRRONc&t=1459s)
+
 [Eric Schmidt: This is how AI will transform the way science gets done](https://www.technologyreview.com/2023/07/05/1075865/eric-schmidt-ai-will-transform-science/?utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social&utm_source=LinkedIn)
 
 [How academia is exploring new approaches for evaluating researchers](https://www.science.org/content/article/how-academia-is-exploring-new-approaches-for-evaluating-researchers)
