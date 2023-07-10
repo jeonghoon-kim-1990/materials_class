@@ -1,4 +1,6 @@
 
+[Polymer waste - PNAS](https://news.mit.edu/2023/advancing-material-innovation-address-polymer-waste-crisis-0612)
+
 [Scientists used ChatGPT to generate an entire paper from scratch — but is it any good?](https://www.nature.com/articles/d41586-023-02218-z?utm_term=Autofeed&utm_campaign=nature&utm_medium=Social&utm_source=Facebook&fbclid=IwAR1Ert1zAZRL-EOtR_xxokuAm4KIGFzA0QxlwJANydkqdSc5QiK2ojmKGY4#Echobox=1688697333)
 
 [Artificial Intelligence: The Good, the Bad, and the Ugly - Yaser Abu-Mostafa](https://www.youtube.com/watch?v=-a61zsRRONc&t=1459s)
