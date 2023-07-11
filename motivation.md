@@ -1,6 +1,9 @@
 
 
 Instagram:
+
+[focusing on the good sides](https://www.youtube.com/shorts/Sk_R-ry5sEk?feature=share)
+
 [Real champion](https://www.instagram.com/reel/CrdThKKoRRt/?igshid=MTc4MmM1YmI2Ng%3D%3D)
 
 
