@@ -25,3 +25,5 @@ Misc:
 [c pointer](https://www.freecodecamp.org/news/finally-understand-pointers-in-c/?fbclid=IwAR0FhVVTR_sjzfxXQCGPyqWZvpvFYWxxSIS34DALmqMzb7pQ7m0BqOi7dHU)
 
 [clean code](https://www.freecodecamp.org/news/how-to-write-clean-code/?fbclid=IwAR0EF3rxX2fMqOyI0rqwDMkPN5nQyWn5zuUG43IOI_dyOAtycEgL4Mu2yrY)
+
+[clean code](https://dailyheumsi.tistory.com/221)
