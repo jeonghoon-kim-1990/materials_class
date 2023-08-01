@@ -26,4 +26,4 @@ Misc:
 
 [clean code](https://www.freecodecamp.org/news/how-to-write-clean-code/?fbclid=IwAR0EF3rxX2fMqOyI0rqwDMkPN5nQyWn5zuUG43IOI_dyOAtycEgL4Mu2yrY)
 
-[clean code](https://dailyheumsi.tistory.com/221)
+[Pythonic clean code](https://dailyheumsi.tistory.com/221)
